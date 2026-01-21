@@ -1,6 +1,12 @@
 *{margin: 0; padding:0; box-sizing: border-box;}
+
+body{
+    background: linear-gradient(#aaa, #111);
+}
+
 header{
     background-color: rgb(29, 153, 145);
     padding: 2rem;
     text-transform: uppercase;
+    text-align: center;
 }
