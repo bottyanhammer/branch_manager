@@ -10,3 +10,6 @@ header{
     text-transform: uppercase;
     text-align: center;
 }
+main{
+    background-color: rgb(211, 105, 105);
+}
